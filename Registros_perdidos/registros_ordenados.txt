@@ -1,0 +1,18 @@
+cantidad_de_sobres,fechas,tipo_de_grano
+5684385,2023-03-15,Café Arábica
+3452114,2023-03-20,Café Robusta
+7925590,2023-03-18,Café Liberica
+1223476,2023-03-22,Café Excelsa
+10280583,2023-03-17,Café Bourbon
+4570130,2023-03-19,Café Typica
+2346377,2023-03-21,Café Geisha
+6674979,2023-03-16,Café Maragogipe
+11477852,2023-03-23,Café Moka
+12050228,2023-03-14,Café Tarrazú
+13165654,2023-03-25,Café Yirgacheffe
+14284135,2023-03-26,Café Sumatra
+14799480,2023-03-27,Café Sulawesi
+15909769,2023-03-28,Café Java
+10728645,2023-03-29,Café Harrar
+11851238,2023-03-30,Café Sidamo
+12969976,2023-03-31,Café Mandheling
